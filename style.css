@@ -45,7 +45,8 @@ ul {
 li {
   list-style: none;
 }
-input,button,
+input,
+button,
 .task-checkbox {
   outline: none;
 }
