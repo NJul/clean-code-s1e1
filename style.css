@@ -86,7 +86,7 @@ button,
   color: #888;
 }
 .task-input[type="text"]:focus {
-    color: #333;
+  color: #333;
 }
 
 /* New Task */
